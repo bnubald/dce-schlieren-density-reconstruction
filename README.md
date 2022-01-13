@@ -1,0 +1,3 @@
+- Case 1: Analytical test case
+- Case 2: Standard wedge shock defined via analytical function
+- Case 3: Experimental sting shock case [Paper](https://iopscience.iop.org/article/10.1088/0957-0233/22/10/104011)
