@@ -1,4 +1,4 @@
-Notebooks corresponding to preprint available at [arXiv]([https://arxiv.org/abs/2201.05233]()). Bibtex citation:
+Notebooks corresponding to preprint available at [arXiv](https://arxiv.org/abs/2201.05233). Bibtex citation:
 
 ```
 @misc{ubald2022density,
